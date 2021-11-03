@@ -1,0 +1,22 @@
+{
+  "name": "fifth_test_repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pipsisewah/fifth_test_repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pipsisewah/fifth_test_repo/issues"
+  },
+  "devDependencies": {
+    "auto-version": "git+ssh://git@github.com:Pipsisewah/auto-version.git"
+  },
+  "homepage": "https://github.com/Pipsisewah/fifth_test_repo#readme"
+}
